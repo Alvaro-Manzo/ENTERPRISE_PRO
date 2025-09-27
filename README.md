@@ -291,10 +291,10 @@ Este proyecto está licenciado bajo la **Licencia MIT** - ver el archivo [LICENS
 
 ### 🚀 **¿Listo para transformar tu negocio?**
 
-**[⭐ Dale una estrella](https://github.com/tuusuario/EnterprisePro)** • **[🍴 Haz Fork](https://github.com/Alvaro-Manzo/ENTERPRISE_PRO/fork)** • **[📝 Reportar Issues](https://github.com/Alvaro-Manzo/ENTERPRISE_PRO/issues)**
+**[⭐ Dale una estrella](https://github.com/Alvaro-Manzo/ENTERPRISE_PRO)** • **[🍴 Haz Fork](https://github.com/Alvaro-Manzo/ENTERPRISE_PRO/fork)** • **[📝 Reportar Issues](https://github.com/Alvaro-Manzo/ENTERPRISE_PRO/issues)**
 
-**Hecho con ❤️ para la comunidad empresarial**
+**Hecho con ❤️**
 
-*Mostrando prácticas modernas de desarrollo web y arquitectura de nivel empresarial*
+*:)*
 
 </div>
