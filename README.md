@@ -29,7 +29,7 @@ Este proyecto demuestra:
 - Control de acceso basado en roles (RBAC)
 - Hash de contraseñas PBKDF2
 - Gestión de sesiones
-- Registro de auditoría
+- Registro de auditoría.
 
 ### 📊 **Dashboard y Análisis**
 - Métricas KPI en tiempo real
